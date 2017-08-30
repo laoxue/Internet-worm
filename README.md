@@ -7,4 +7,4 @@
 
 >+ [python脚本 生产验证码](https://github.com/seolgang/Magic-Code/blob/master/%E7%94%9F%E4%BA%A7%E9%AA%8C%E8%AF%81%E7%A0%81.py "批量生产验证码")
 
->+ [Node爬虫 百度帖子图片](https://github.com/seolgang/Magic-Code/blob/master/%E7%94%9F%E4%BA%A7%E9%AA%8C%E8%AF%81%E7%A0%81.py "爬取百度贴吧帖子图片")
+>+ [Node爬虫 百度帖子图片](https://github.com/seolgang/WEBspider/blob/master/TIEBAspider.js "爬取百度贴吧帖子图片")
